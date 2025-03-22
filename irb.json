@@ -1,0 +1,15 @@
+{
+    "name": "Infinite Rewards & Boosts",
+    "symbol": "IRB",
+    "description": "8% tax: 5% rewards, 2% boosts, 1% burned",
+    "image": "https://raw.githubusercontent.com/anonovski/public/refs/heads/main/cwtlogo.jpg",
+    "website": "https://irbcrypto.online/",
+    "telegram": "https://t.me/irbonsol",
+    "twitter": "https://x.com/irbcryptoonsol",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
