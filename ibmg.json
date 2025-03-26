@@ -1,0 +1,15 @@
+{
+    "name": "Infinite Boost & Money Glitch",
+    "symbol": "IBMG",
+    "description": "8% tax: 5% rewards, 2% boosts, 1% trendings",
+    "image": "https://raw.githubusercontent.com/anonovski/irb/refs/heads/main/ibmg.png",
+    "website": "https://ibmg.online",
+    "telegram": "https://t.me/ibmgonsol",
+    "twitter": "https://x.com/irbcryptoonsol",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
