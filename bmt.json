@@ -1,0 +1,15 @@
+{
+    "name": "Burn Me Token",
+    "symbol": "BMT",
+    "description": "burn me",
+    "image": "https://raw.githubusercontent.com/anonovski/public/refs/heads/main/thisisfine2.png",
+    "website": "https://google.com",
+    "telegram": "https://google.com",
+    "twitter": "https://google.com",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
