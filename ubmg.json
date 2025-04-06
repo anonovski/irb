@@ -1,0 +1,15 @@
+{
+    "name": "Unlimited Boost & Money Glitch",
+    "symbol": "UBMG",
+    "description": "10% tax: 5% rewards, 3% dex boosts, 2% marketing",
+    "image": "https://raw.githubusercontent.com/anonovski/irb/refs/heads/main/ubmg.png",
+    "website": "https://ubmg.online",
+    "telegram": "https://t.me/ubmgonsol",
+    "twitter": "https://x.com/ubmgonsol",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
