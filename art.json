@@ -1,10 +1,10 @@
 {
     "name": "Auto Rewards Token",
     "symbol": "ART",
-    "description": "8% tax: 5% rewards, 3% marketing",
+    "description": "8% tax: 5% rewards, 3% boosts",
     "image": "https://raw.githubusercontent.com/anonovski/irb/refs/heads/main/art.png",
     "website": "https://arttoken.online",
-    "telegram": "https://t.me/todo",
+    "telegram": "https://t.me/arton_solana",
     "twitter": "https://x.com/arttokensol",
     "attributes": [
       {
